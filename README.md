@@ -23,15 +23,15 @@ Also , natural resources boosts the Indian Economy
 
 CLICK THE LOGO TO WATCH
 
-[![Check out the intro video](84EF2B62-939F-41FF-BA19-15A8F7B5BA69.jpeg)](https://drive.google.com/file/d/1nxLNeD6O5rnrJTqPeTkzgaroEGiHA8Gd/view?usp=sharing)
+[![Check out the intro video](RESOURCENITIC-LOGO.jpg)](https://drive.google.com/file/d/1nxLNeD6O5rnrJTqPeTkzgaroEGiHA8Gd/view?usp=sharing)
 
 
 ## Screenshots
-![Home page](HOMEPAGE.jpeg)
-![Capacity Generation](ESTIMATOR.jpeg)
-![Predictor](REGION TYPE PREDICTION.jpeg)
-![Import export rates](IMPORT EXPORT RATES.jpeg)
-![REECO Visualisations](UI pictures/VISUALS.jpeg)
+<p align="center"> 
+<img width="450"  src="pic1.PNG"  />
+<img width="450"  src="pic2.PNG"  />
+</p
+
 
 
 
@@ -44,18 +44,20 @@ CLICK THE LOGO TO WATCH
 * Tableau
 * Flask 
 * mySQL database
+* Heroku
 
 
 ## Code Examples
-![Algorithms](code1.PNG)
-![Flask implementation](modelsample.jpeg)
-![ML Model](code2.PNG)
+<p align="center"> 
+<img width="450"  src="random_forest.PNG"  />
+<img width="450"  src="backend_code.PNG"  />
+</p
 
 ## Features
 
 * HOME 
-* CAPACITY GENERATION
-* PREDICTOR
+* ESTIMATOR
+* FORECASTER
 * GDP RATES
 * NATIONAL SHARE RATES
 * IMPORT/EXPORT RATES
