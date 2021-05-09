@@ -10,7 +10,6 @@
 
 ## Table of contents
 * [Information](#project-information)
-
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Features](#features)
