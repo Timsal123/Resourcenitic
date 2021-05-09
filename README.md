@@ -10,6 +10,7 @@
         python app.py
     </code>
 </pre>
+
 * check out all versions used from requirements.txt file
 
 ## Table of contents
