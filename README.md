@@ -4,7 +4,7 @@
 
 ## Table of contents
 * [Information](#project-information)
-* [Video](#intro-video)
+
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Features](#features)
@@ -14,16 +14,11 @@
 ## PROJECT INFORMATION 
 * Natural resource investing has long been staple in strategic asset allocation. Natural resources act as store of value, especially during times of rising inflation or currency depreciation
 * Natural resource investing appeals due to the impact of rising incomes, global infrastructure repair, political buying, and the store of value, especially metals.
-* Investlux aims at providing service oriented industrialists and cooperate sector a platform to understand the global natural resources share and future feasibility of projects or power plants they tend to establish .
+* Resourcenitic aims at providing service oriented industrialists and cooperate sector a platform to understand the global natural resources share and future feasibility of projects or power plants they tend to establish .
 * The reasons to invest in natural resources have always been compelling. Whether it's hydro, thermal, or nuclear, natural resources are at the core of production.
 The pool of investable natural resources is growing as the world population requires more and more of these resources.
 Also , natural resources boosts the Indian Economy
 
-## INTRO VIDEO
-
-CLICK THE LOGO TO WATCH
-
-[![Check out the intro video](RESOURCENITIC-LOGO.jpg)](https://drive.google.com/file/d/1nxLNeD6O5rnrJTqPeTkzgaroEGiHA8Gd/view?usp=sharing)
 
 
 ## Screenshots
