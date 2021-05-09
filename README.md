@@ -2,6 +2,9 @@
 ## Think invest centric , use Resourcenitic
 ### By team - DATA UNRAVEL
 
+## INSTRUCTIONS
+#### Deployment Link:https://resourcenitic.herokuapp.com/
+
 ## Table of contents
 * [Information](#project-information)
 
@@ -9,7 +12,7 @@
 * [Technologies](#technologies)
 * [Features](#features)
 * [Status](#status)
-* [Contact](#contact)
+* [Contact](#contact) 
 
 ## PROJECT INFORMATION 
 * Natural resource investing has long been staple in strategic asset allocation. Natural resources act as store of value, especially during times of rising inflation or currency depreciation
