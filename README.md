@@ -1,5 +1,5 @@
 # Resourcenitic
-## Think invest centric , use Resourcenitic
+## Think Invest Centric, use Resourcenitic
 ### By team - DATA UNRAVEL
 
 ### INSTRUCTIONS
