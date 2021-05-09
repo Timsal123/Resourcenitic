@@ -2,8 +2,11 @@
 ## Think invest centric , use Resourcenitic
 ### By team - DATA UNRAVEL
 
-## INSTRUCTIONS
+### INSTRUCTIONS
 #### Deployment Link:https://resourcenitic.herokuapp.com/
+#### To check all machine learning models clone the repo and run it in your localserver
+##### commands: python app.py 
+##### check out all versions used from requirements.txt file
 
 ## Table of contents
 * [Information](#project-information)
